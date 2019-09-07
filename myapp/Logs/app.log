@@ -1,0 +1,35 @@
+Debug at Sun Sep 08 2019 00:02:58 GMT+0700 (Indochina Time) info { jsontext: 'http://localhost:3000/?' }
+Debug at Sun Sep 08 2019 00:02:58 GMT+0700 (Indochina Time) info Going to write into existing file
+Debug at Sun Sep 08 2019 00:02:58 GMT+0700 (Indochina Time) info Going to create directory FD105861567875778774
+Debug at Sun Sep 08 2019 00:02:58 GMT+0700 (Indochina Time) info Directory created successfully!
+Debug at Sun Sep 08 2019 00:02:58 GMT+0700 (Indochina Time) info Let's read newly written data
+Debug at Sun Sep 08 2019 00:02:58 GMT+0700 (Indochina Time) info Data written successfully! 10586gfCKbe.txt
+Debug at Sun Sep 08 2019 00:02:58 GMT+0700 (Indochina Time) info Asynchronous read: Simply Easy Learning! { jsontext: 'http://localhost:3000/?' }
+Debug at Sun Sep 08 2019 00:05:31 GMT+0700 (Indochina Time) info Going to write into existing file
+Debug at Sun Sep 08 2019 00:05:31 GMT+0700 (Indochina Time) info { jsontext: 'http://localhost:3000/?' }
+Debug at Sun Sep 08 2019 00:05:31 GMT+0700 (Indochina Time) info Going to create directory FD29981567875931497
+Debug at Sun Sep 08 2019 00:05:31 GMT+0700 (Indochina Time) info Directory created successfully!
+Debug at Sun Sep 08 2019 00:05:31 GMT+0700 (Indochina Time) info Data written successfully! 2998I0oT6i.txt
+Debug at Sun Sep 08 2019 00:05:31 GMT+0700 (Indochina Time) info Let's read newly written data
+Debug at Sun Sep 08 2019 00:05:31 GMT+0700 (Indochina Time) info Asynchronous read: Simply Easy Learning! { jsontext: 'http://localhost:3000/?' }
+Debug at: Sun Sep 08 2019 00:10:50 GMT+0700 (Indochina Time) info: { jsontext: 'http://localhost:3000/?' }
+Debug at: Sun Sep 08 2019 00:10:50 GMT+0700 (Indochina Time) info: Going to create directory FD567101567876250710
+Debug at: Sun Sep 08 2019 00:10:50 GMT+0700 (Indochina Time) info: Going to write into existing file
+Debug at: Sun Sep 08 2019 00:10:50 GMT+0700 (Indochina Time) info: Directory created successfully!
+Debug at: Sun Sep 08 2019 00:10:50 GMT+0700 (Indochina Time) info: Data written successfully! 567108KC3Dw.txt
+Debug at: Sun Sep 08 2019 00:10:50 GMT+0700 (Indochina Time) info: Let's read newly written data
+Debug at: Sun Sep 08 2019 00:10:50 GMT+0700 (Indochina Time) info: Asynchronous read: Simply Easy Learning! { jsontext: 'http://localhost:3000/?' }
+Debug at: Sun Sep 08 2019 00:38:38 GMT+0700 (Indochina Time) info: Going to write into existing file
+Debug at: Sun Sep 08 2019 00:38:38 GMT+0700 (Indochina Time) info: { jsontext: 'http://localhost:3000/?' }
+Debug at: Sun Sep 08 2019 00:38:38 GMT+0700 (Indochina Time) info: Going to create directory FD26831567877918073
+Debug at: Sun Sep 08 2019 00:38:38 GMT+0700 (Indochina Time) info: Directory created successfully!
+Debug at: Sun Sep 08 2019 00:38:38 GMT+0700 (Indochina Time) info: Data written successfully! 2683eRuPac.txt
+Debug at: Sun Sep 08 2019 00:38:38 GMT+0700 (Indochina Time) info: Let's read newly written data
+Debug at: Sun Sep 08 2019 00:38:38 GMT+0700 (Indochina Time) info: Asynchronous read: Simply Easy Learning! { jsontext: 'http://localhost:3000/?' }
+Debug at: Sun Sep 08 2019 00:38:52 GMT+0700 (Indochina Time) info: { jsontext: 'http://localhost:3000/?' }
+Debug at: Sun Sep 08 2019 00:38:52 GMT+0700 (Indochina Time) info: Going to write into existing file
+Debug at: Sun Sep 08 2019 00:38:52 GMT+0700 (Indochina Time) info: Going to create directory FD86651567877932969
+Debug at: Sun Sep 08 2019 00:38:52 GMT+0700 (Indochina Time) info: Directory created successfully!
+Debug at: Sun Sep 08 2019 00:38:52 GMT+0700 (Indochina Time) info: Let's read newly written data
+Debug at: Sun Sep 08 2019 00:38:52 GMT+0700 (Indochina Time) info: Data written successfully! 8665fhBWCm.txt
+Debug at: Sun Sep 08 2019 00:38:52 GMT+0700 (Indochina Time) info: Asynchronous read: Simply Easy Learning! { jsontext: 'http://localhost:3000/?' }
